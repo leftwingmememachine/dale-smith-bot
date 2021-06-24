@@ -38,9 +38,9 @@ Simply write one of the keywords (usually variations of the bot's name) in a com
 $ python -m venv <venv_name>
 $ cd venv_name
 $ source bin/activate
-(venv_name) $ git clone https://github.com/bobby-b-bot/reddit.git
-(venv_name) $ git clone https://github.com/bobby-b-bot/utils.git
-(venv_name) $ cd reddit
+(venv_name) $ git clone https://github.com/leftwingmememachine/dale-smith-bot.git
+(venv_name) $ git clone https://github.com/leftwingmememachine/utils.git
+(venv_name) $ cd dale-smith-bot
 (venv_name) $ pip install -r requirements.txt
 ```
 
